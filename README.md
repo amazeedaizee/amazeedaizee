@@ -1,4 +1,6 @@
-## Hi there 👋
+## Please read the below before looking at the repositories:
+
+[A small update regarding my mods](https://gist.github.com/amazeedaizee/b065103e312e6339ddce15854445dc27)
 
 <!--
 **amazeedaizee/amazeedaizee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
